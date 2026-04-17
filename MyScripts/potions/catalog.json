@@ -1,0 +1,1583 @@
+{
+  "potions": [
+    {
+      "display_name": "Marksman Draught I",
+      "recipe_level": 1,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Poison Extract",
+          "color": "red",
+          "level": 3
+        },
+        {
+          "display_name": "Poison Extract",
+          "color": "red",
+          "level": 3
+        },
+        {
+          "display_name": "Crab Extract",
+          "color": "blue",
+          "level": 3
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Swashbuckler Stew I",
+      "recipe_level": 1,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Poison Extract",
+          "color": "red",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Cannoneer Draft I",
+      "recipe_level": 2,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Poison Extract",
+          "color": "red",
+          "level": 3
+        },
+        {
+          "display_name": "Crab Extract",
+          "color": "blue",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Mystic Mixture I",
+      "recipe_level": 2,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Crab Extract",
+          "color": "blue",
+          "level": 3
+        },
+        {
+          "display_name": "Crab Extract",
+          "color": "blue",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Swift Foot I",
+      "recipe_level": 3,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Poison Extract",
+          "color": "red",
+          "level": 3
+        },
+        {
+          "display_name": "Poison Extract",
+          "color": "red",
+          "level": 3
+        },
+        {
+          "display_name": "Crab Extract",
+          "color": "blue",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Belchin' Brew",
+      "recipe_level": 3,
+      "island": "tortuga",
+      "ingredients": [
+        {
+          "display_name": "Poison Extract",
+          "color": "red",
+          "level": 3
+        },
+        {
+          "display_name": "Crab Extract",
+          "color": "blue",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        },
+        {
+          "display_name": "Gold Powder",
+          "color": "black",
+          "level": 3
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Flatulent Fizz",
+      "recipe_level": 4,
+      "island": "cuba",
+      "ingredients": [
+        {
+          "display_name": "Poison Extract",
+          "color": "red",
+          "level": 3
+        },
+        {
+          "display_name": "Crab Extract",
+          "color": "blue",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        },
+        {
+          "display_name": "Cursed Essence",
+          "color": "purple",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Deadeye I",
+      "recipe_level": 4,
+      "island": "cuba",
+      "ingredients": [
+        {
+          "display_name": "Bone Shards",
+          "color": "purple",
+          "level": 2
+        },
+        {
+          "display_name": "Cursed Extract",
+          "color": "purple",
+          "level": 3
+        },
+        {
+          "display_name": "Cursed Extract",
+          "color": "purple",
+          "level": 3
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Boom Brew I",
+      "recipe_level": 4,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Crab Extract",
+          "color": "blue",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Lively Bucko Brew I",
+      "recipe_level": 5,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Ghastly Visage",
+      "recipe_level": 5,
+      "island": "cuba",
+      "ingredients": [
+        {
+          "display_name": "Poison Extract",
+          "color": "red",
+          "level": 3
+        },
+        {
+          "display_name": "Crab Extract",
+          "color": "blue",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        },
+        {
+          "display_name": "Cursed Extract",
+          "color": "purple",
+          "level": 3
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Pantano Silver Spirit I",
+      "recipe_level": 5,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Poison Extract",
+          "color": "red",
+          "level": 3
+        },
+        {
+          "display_name": "Crab Extract",
+          "color": "blue",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Marksman Draught II",
+      "recipe_level": 6,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Essence of Scorpion",
+          "color": "red",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Scorpion",
+          "color": "red",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Swashbuckler Stew II",
+      "recipe_level": 6,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Essence of Scorpion",
+          "color": "red",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Alligator",
+          "color": "green",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Alligator",
+          "color": "green",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Clap O'Thunder",
+      "recipe_level": 6,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Essence of Scorpion",
+          "color": "red",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Alligator",
+          "color": "green",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Cannoneer Draft II",
+      "recipe_level": 7,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Essence of Scorpion",
+          "color": "red",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Alligator",
+          "color": "green",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Mystic Mixture II",
+      "recipe_level": 7,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Alligator",
+          "color": "green",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Swift Foot II",
+      "recipe_level": 8,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Poison Extract",
+          "color": "red",
+          "level": 3
+        },
+        {
+          "display_name": "Poison Extract",
+          "color": "red",
+          "level": 3
+        },
+        {
+          "display_name": "Crab Extract",
+          "color": "blue",
+          "level": 3
+        },
+        {
+          "display_name": "Crab Extract",
+          "color": "blue",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Staff Enchant I",
+      "recipe_level": 8,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Poison Extract",
+          "color": "red",
+          "level": 3
+        },
+        {
+          "display_name": "Crab Extract",
+          "color": "blue",
+          "level": 3
+        },
+        {
+          "display_name": "Crab Extract",
+          "color": "blue",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Puke Potion",
+      "recipe_level": 9,
+      "island": "padres",
+      "ingredients": [
+        {
+          "display_name": "Poison Extract",
+          "color": "red",
+          "level": 3
+        },
+        {
+          "display_name": "Crab Extract",
+          "color": "blue",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        },
+        {
+          "display_name": "Lava Extract",
+          "color": "orange",
+          "level": 3
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Deadeye II",
+      "recipe_level": 9,
+      "island": "cuba",
+      "ingredients": [
+        {
+          "display_name": "Bone Shards",
+          "color": "purple",
+          "level": 2
+        },
+        {
+          "display_name": "Cursed Extract",
+          "color": "purple",
+          "level": 3
+        },
+        {
+          "display_name": "Cursed Extract",
+          "color": "purple",
+          "level": 3
+        },
+        {
+          "display_name": "Cursed Essence",
+          "color": "purple",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Boom Brew II",
+      "recipe_level": 9,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Alligator",
+          "color": "green",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Alligator",
+          "color": "green",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Lively Bucko Brew II",
+      "recipe_level": 10,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Shrinkin' Grog",
+      "recipe_level": 10,
+      "island": "padres",
+      "ingredients": [
+        {
+          "display_name": "Poison Extract",
+          "color": "red",
+          "level": 3
+        },
+        {
+          "display_name": "Crab Extract",
+          "color": "blue",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        },
+        {
+          "display_name": "Volcano Gem",
+          "color": "orange",
+          "level": 5
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Marksman Draught III",
+      "recipe_level": 11,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Venom Gem",
+          "color": "red",
+          "level": 5
+        },
+        {
+          "display_name": "Venom Gem",
+          "color": "red",
+          "level": 5
+        },
+        {
+          "display_name": "Crab Gem",
+          "color": "blue",
+          "level": 5
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Swashbuckler Stew III",
+      "recipe_level": 11,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Venom Gem",
+          "color": "red",
+          "level": 5
+        },
+        {
+          "display_name": "Alligator Gem",
+          "color": "green",
+          "level": 5
+        },
+        {
+          "display_name": "Alligator Gem",
+          "color": "green",
+          "level": 5
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Pantano Silver Spirit II",
+      "recipe_level": 11,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Essence of Scorpion",
+          "color": "red",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Alligator",
+          "color": "green",
+          "level": 4
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Cannoneer Draft III",
+      "recipe_level": 12,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Venom Gem",
+          "color": "red",
+          "level": 5
+        },
+        {
+          "display_name": "Crab Gem",
+          "color": "blue",
+          "level": 5
+        },
+        {
+          "display_name": "Alligator Gem",
+          "color": "green",
+          "level": 5
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Mystic Mixture III",
+      "recipe_level": 12,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Crab Gem",
+          "color": "blue",
+          "level": 5
+        },
+        {
+          "display_name": "Crab Gem",
+          "color": "blue",
+          "level": 5
+        },
+        {
+          "display_name": "Alligator Gem",
+          "color": "green",
+          "level": 5
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Swift Foot III",
+      "recipe_level": 13,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Poison Extract",
+          "color": "red",
+          "level": 3
+        },
+        {
+          "display_name": "Poison Extract",
+          "color": "red",
+          "level": 3
+        },
+        {
+          "display_name": "Crab Extract",
+          "color": "blue",
+          "level": 3
+        },
+        {
+          "display_name": "Crab Extract",
+          "color": "blue",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Phantom Spirits I",
+      "recipe_level": 13,
+      "island": "cuba",
+      "ingredients": [
+        {
+          "display_name": "Cursed Extract",
+          "color": "purple",
+          "level": 3
+        },
+        {
+          "display_name": "Cursed Extract",
+          "color": "purple",
+          "level": 3
+        },
+        {
+          "display_name": "Cursed Extract",
+          "color": "purple",
+          "level": 3
+        },
+        {
+          "display_name": "Cursed Extract",
+          "color": "purple",
+          "level": 3
+        },
+        {
+          "display_name": "Cursed Extract",
+          "color": "purple",
+          "level": 3
+        },
+        {
+          "display_name": "Cursed Extract",
+          "color": "purple",
+          "level": 3
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Plunder Potion I",
+      "recipe_level": 14,
+      "island": "tortuga",
+      "ingredients": [
+        {
+          "display_name": "Gold Powder",
+          "color": "black",
+          "level": 3
+        },
+        {
+          "display_name": "Gold Powder",
+          "color": "black",
+          "level": 3
+        },
+        {
+          "display_name": "Gold Powder",
+          "color": "black",
+          "level": 3
+        },
+        {
+          "display_name": "Gold Powder",
+          "color": "black",
+          "level": 3
+        },
+        {
+          "display_name": "Gold Powder",
+          "color": "black",
+          "level": 3
+        },
+        {
+          "display_name": "Gold Powder",
+          "color": "black",
+          "level": 3
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Deadeye III",
+      "recipe_level": 14,
+      "island": "cuba",
+      "ingredients": [
+        {
+          "display_name": "Cursed Extract",
+          "color": "purple",
+          "level": 3
+        },
+        {
+          "display_name": "Cursed Extract",
+          "color": "purple",
+          "level": 3
+        },
+        {
+          "display_name": "Cursed Extract",
+          "color": "purple",
+          "level": 3
+        },
+        {
+          "display_name": "Cursed Essence",
+          "color": "purple",
+          "level": 4
+        },
+        {
+          "display_name": "Cursed Essence",
+          "color": "purple",
+          "level": 4
+        },
+        {
+          "display_name": "Cursed Essence",
+          "color": "purple",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Hardy Matey I",
+      "recipe_level": 15,
+      "island": "padres",
+      "ingredients": [
+        {
+          "display_name": "Lava Extract",
+          "color": "orange",
+          "level": 3
+        },
+        {
+          "display_name": "Lava Extract",
+          "color": "orange",
+          "level": 3
+        },
+        {
+          "display_name": "Lava Extract",
+          "color": "orange",
+          "level": 3
+        },
+        {
+          "display_name": "Lava Extract",
+          "color": "orange",
+          "level": 3
+        },
+        {
+          "display_name": "Lava Extract",
+          "color": "orange",
+          "level": 3
+        },
+        {
+          "display_name": "Lava Extract",
+          "color": "orange",
+          "level": 3
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Lively Bucko Brew III",
+      "recipe_level": 15,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Muertos Mojito",
+      "recipe_level": 15,
+      "island": "cuba",
+      "ingredients": [
+        {
+          "display_name": "Cursed Essence",
+          "color": "purple",
+          "level": 4
+        },
+        {
+          "display_name": "Cursed Essence",
+          "color": "purple",
+          "level": 4
+        },
+        {
+          "display_name": "Cursed Essence",
+          "color": "purple",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Boom Brew III",
+      "recipe_level": 15,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Crab Gem",
+          "color": "blue",
+          "level": 5
+        },
+        {
+          "display_name": "Alligator Gem",
+          "color": "green",
+          "level": 5
+        },
+        {
+          "display_name": "Alligator Gem",
+          "color": "green",
+          "level": 5
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Growin' Grog",
+      "recipe_level": 16,
+      "island": "cuba",
+      "ingredients": [
+        {
+          "display_name": "Poison Extract",
+          "color": "red",
+          "level": 3
+        },
+        {
+          "display_name": "Crab Extract",
+          "color": "blue",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        },
+        {
+          "display_name": "Cursed Gem",
+          "color": "purple",
+          "level": 5
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Pantano Silver Spirit III",
+      "recipe_level": 16,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Venom Gem",
+          "color": "red",
+          "level": 5
+        },
+        {
+          "display_name": "Crab Gem",
+          "color": "blue",
+          "level": 5
+        },
+        {
+          "display_name": "Alligator Gem",
+          "color": "green",
+          "level": 5
+        },
+        {
+          "display_name": "Essence of Alligator",
+          "color": "green",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Lively Bucko Brew IV",
+      "recipe_level": 17,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Crab",
+          "color": "blue",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Addled Elixir",
+      "recipe_level": 17,
+      "island": "tortuga",
+      "ingredients": [
+        {
+          "display_name": "Poison Extract",
+          "color": "red",
+          "level": 3
+        },
+        {
+          "display_name": "Crab Extract",
+          "color": "blue",
+          "level": 3
+        },
+        {
+          "display_name": "Tooth Dust",
+          "color": "green",
+          "level": 3
+        },
+        {
+          "display_name": "Gold Gem",
+          "color": "black",
+          "level": 5
+        },
+        {
+          "display_name": "Gold Gem",
+          "color": "black",
+          "level": 5
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Phantom Spirits II",
+      "recipe_level": 18,
+      "island": "cuba",
+      "ingredients": [
+        {
+          "display_name": "Cursed Essence",
+          "color": "purple",
+          "level": 4
+        },
+        {
+          "display_name": "Cursed Essence",
+          "color": "purple",
+          "level": 4
+        },
+        {
+          "display_name": "Cursed Essence",
+          "color": "purple",
+          "level": 4
+        },
+        {
+          "display_name": "Cursed Essence",
+          "color": "purple",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Hardy Matey II",
+      "recipe_level": 19,
+      "island": "padres",
+      "ingredients": [
+        {
+          "display_name": "Volcanic Essence",
+          "color": "orange",
+          "level": 4
+        },
+        {
+          "display_name": "Volcanic Essence",
+          "color": "orange",
+          "level": 4
+        },
+        {
+          "display_name": "Volcanic Essence",
+          "color": "orange",
+          "level": 4
+        },
+        {
+          "display_name": "Volcanic Essence",
+          "color": "orange",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Plunder Potion II",
+      "recipe_level": 19,
+      "island": "tortuga",
+      "ingredients": [
+        {
+          "display_name": "Essence of Gold",
+          "color": "black",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Gold",
+          "color": "black",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Gold",
+          "color": "black",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Gold",
+          "color": "black",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Stinger Stew",
+      "recipe_level": 20,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Scorpion Soul",
+          "color": "red",
+          "level": 6
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Gator Grog",
+      "recipe_level": 20,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Alligator Soul",
+          "color": "green",
+          "level": 6
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Pincer Potion",
+      "recipe_level": 20,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Crab Soul",
+          "color": "blue",
+          "level": 6
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Staff Enchant II",
+      "recipe_level": 20,
+      "island": "port_royal",
+      "ingredients": [
+        {
+          "display_name": "Alligator Soul",
+          "color": "green",
+          "level": 6
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Phantom Spirits III",
+      "recipe_level": 20,
+      "island": "cuba",
+      "ingredients": [
+        {
+          "display_name": "Cursed Essence",
+          "color": "purple",
+          "level": 4
+        },
+        {
+          "display_name": "Cursed Essence",
+          "color": "purple",
+          "level": 4
+        },
+        {
+          "display_name": "Cursed Essence",
+          "color": "purple",
+          "level": 4
+        },
+        {
+          "display_name": "Cursed Essence",
+          "color": "purple",
+          "level": 4
+        },
+        {
+          "display_name": "Cursed Essence",
+          "color": "purple",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Plunder Potion III",
+      "recipe_level": 20,
+      "island": "tortuga",
+      "ingredients": [
+        {
+          "display_name": "Essence of Gold",
+          "color": "black",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Gold",
+          "color": "black",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Gold",
+          "color": "black",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Gold",
+          "color": "black",
+          "level": 4
+        },
+        {
+          "display_name": "Essence of Gold",
+          "color": "black",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Hardy Matey III",
+      "recipe_level": 20,
+      "island": "padres",
+      "ingredients": [
+        {
+          "display_name": "Volcanic Essence",
+          "color": "orange",
+          "level": 4
+        },
+        {
+          "display_name": "Volcanic Essence",
+          "color": "orange",
+          "level": 4
+        },
+        {
+          "display_name": "Volcanic Essence",
+          "color": "orange",
+          "level": 4
+        },
+        {
+          "display_name": "Volcanic Essence",
+          "color": "orange",
+          "level": 4
+        },
+        {
+          "display_name": "Volcanic Essence",
+          "color": "orange",
+          "level": 4
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    },
+    {
+      "display_name": "Mejor Muertos Mojito",
+      "recipe_level": 20,
+      "island": "cuba",
+      "ingredients": [
+        {
+          "display_name": "Cursed Gem",
+          "color": "purple",
+          "level": 5
+        },
+        {
+          "display_name": "Cursed Gem",
+          "color": "purple",
+          "level": 5
+        },
+        {
+          "display_name": "Cursed Gem",
+          "color": "purple",
+          "level": 5
+        }
+      ],
+      "strategy": {
+        "strategy_name": "",
+        "kind": "placeholder",
+        "description": "TODO: bot / merge strategy for this recipe."
+      }
+    }
+  ]
+}

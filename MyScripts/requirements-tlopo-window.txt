@@ -1,0 +1,5 @@
+# Optional: TLOPO live window find + client screenshot (Brewing/MyScripts/tlopo_client/window.py)
+# numpy: brew_core.object_recognition (PotionBot-style ROI stats)
+pywin32>=306
+mss>=9.0.0
+numpy>=1.24.0

@@ -1,0 +1,186 @@
+{
+  "automation_delay_s": 0.0,
+  "automation_foreground_settle_s": 0.1,
+  "automation_action_delay_s": 0.1,
+  "automation_pre_click_settle_s": 0.1,
+  "automation_post_click_settle_s": 0.1,
+  "automation_post_drop_sleep_s": 0.0,
+  "automation_hand_poll_interval_ms": 150,
+  "automation_board_wait_poll_interval_ms": 150,
+  "live_game_visual": "Exact",
+  "simple_ui": false,
+  "board_await_b": 27,
+  "board_await_g": 52,
+  "board_await_r": 87,
+  "brew_again_r": 22,
+  "brew_again_g": 14,
+  "brew_again_b": 8,
+  "brew_again_ok_r": 21,
+  "brew_again_ok_g": 13,
+  "brew_again_ok_b": 7,
+  "potion_failed_continue_r": 41,
+  "potion_failed_continue_g": 36,
+  "potion_failed_continue_b": 32,
+  "piece_display_rgb": {
+    "R": [
+      110,
+      34,
+      37
+    ],
+    "G": [
+      66,
+      75,
+      25
+    ],
+    "B": [
+      30,
+      50,
+      87
+    ],
+    "O": [
+      129,
+      70,
+      18
+    ],
+    "P": [
+      73,
+      32,
+      57
+    ],
+    "Grey": [
+      74,
+      65,
+      54
+    ]
+  },
+  "ring_median_grid": {
+    "next_piece_left": {
+      "R": [
+        72,
+        26,
+        28
+      ],
+      "G": [
+        51,
+        49,
+        18
+      ],
+      "B": [
+        23,
+        32,
+        53
+      ],
+      "O": [
+        92,
+        45,
+        14
+      ],
+      "P": [
+        56,
+        25,
+        38
+      ],
+      "Grey": [
+        58,
+        45,
+        35
+      ]
+    },
+    "next_piece_right": {
+      "R": [
+        100,
+        33,
+        35
+      ],
+      "G": [
+        61,
+        67,
+        23
+      ],
+      "B": [
+        27,
+        44,
+        77
+      ],
+      "O": [
+        119,
+        61,
+        16
+      ],
+      "P": [
+        68,
+        30,
+        51
+      ],
+      "Grey": [
+        72,
+        61,
+        48
+      ]
+    },
+    "current_piece_left": {
+      "R": [
+        110,
+        34,
+        37
+      ],
+      "G": [
+        66,
+        75,
+        25
+      ],
+      "B": [
+        30,
+        50,
+        87
+      ],
+      "O": [
+        129,
+        70,
+        18
+      ],
+      "P": [
+        73,
+        32,
+        57
+      ],
+      "Grey": [
+        74,
+        65,
+        54
+      ]
+    },
+    "current_piece_right": {
+      "R": [
+        107,
+        34,
+        37
+      ],
+      "G": [
+        64,
+        70,
+        24
+      ],
+      "B": [
+        29,
+        48,
+        85
+      ],
+      "O": [
+        123,
+        65,
+        17
+      ],
+      "P": [
+        70,
+        31,
+        54
+      ],
+      "Grey": [
+        74,
+        64,
+        50
+      ]
+    }
+  }
+}
