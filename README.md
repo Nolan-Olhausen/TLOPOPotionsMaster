@@ -6,10 +6,47 @@ The shipped executable is **`TLOPOPotionsMaster.exe`** (built from `MyScripts/`)
 
 ---
 
+## Guided color wizard
+
+The **Guided color calibration** window samples colors from your real TLOPO client so automation and recognition match *your* resolution and theme. Open it from the game screen with **Config Colors** (after **Get Window** and **Get Locations** have succeeded—the wizard will warn you if those steps are missing).
+
+**Saving:** Each piece row shows **Pending** after a capture until you click **Save all** at the bottom. That writes the empty-board RGB, all pending ring rows, the Brew Again / Brew Again OK / Potion Failed Continue values, and your settings file. You can type R/G/B manually if a sample looks wrong.
+
+**Scrolling:** Use the wizard’s scrollbar or the mouse wheel anywhere in the window to reach all rows.
+
+### Empty board capture
+
+The **Empty board (left slot)** section measures the “plain” board behind pieces. In-game, get a state where the **left current-piece slot is empty** (no ingredient sitting in that cell) so the detector samples board pixels, not a piece. Then switch back to the app and click **Capture**. The tool grabs a screenshot, finds the `current_piece_left` / `validation_left` region in `object_shapes.json`, and fills median R/G/B.
+
+![Empty board: left slot clear, then Capture in the wizard](ReadmeImages/EmptyBoardCapture.png)
+
+*(If your image uses a different extension, rename the file or change the path above—e.g. `EmptyBoardCapture.jpg`.)*
+
+### Piece / ring color capture
+
+Under **Next pair (queue)** and **Current pair (in play)**, each line is a slot (**Next — left/right piece**, **Current — left/right piece**) and each **color** (Red, Green, Blue, etc.) has its own **Capture** button. In TLOPO, make sure the **matching piece color** is actually in that slot for the row you are calibrating, then click **Capture** in the wizard. The app samples the **ring** around the piece (medians often look a bit muted—that is normal). Adjust R/G/B if needed; status stays **Pending** until **Save all**.
+
+![Matching in-game pieces to Next/Current rows before Capture](ReadmeImages/PieceColorCapture.png)
+
+*(Same note as above if you use `.jpg` instead of `.png`.)*
+
+### Brew Again and other buttons (text only)
+
+These sections sample solid UI buttons from the live client—no extra reference images needed:
+
+- **Brew Again button** — With the normal **Brew Again** control visible on the brewing screen, click **Capture**. The app uses the detected `brew_again` box from your shapes/locations pipeline and stores median RGB for that button.
+- **Brew Again OK button** — Open the state where the **confirmation/OK** control for Brew Again is visible (same idea: one clear screenshot, then **Capture**).
+- **Potion Failed Continue button** — When the **Potion Failed** flow shows the **Continue** (or equivalent) control you want to automate, bring that screen up and **Capture**.
+
+If capture fails, check the game log in the app, confirm **Get Locations** is up to date, and try again with the game unobstructed.
+
+---
+
 ## Repository layout (what lives where)
 
 | Location | Purpose |
 |----------|---------|
+| **`ReadmeImages/`** | Optional screenshots for this README (e.g. wizard setup). Not required to run the app. |
 | **`MyScripts/`** | Application code (`app.py`), catalog data, fonts, PyInstaller spec, and `brew_gui_settings.json` when running from source. |
 | **`MyScripts/potions/catalog.json`** | Potion list and recipe metadata the GUI loads at startup. |
 | **`GUI/`** | Background art for **fancy** UI: list screen (`BrewingListGUI.jpg` or `.png`) and game screen (`BrewingGameGUI.png` or `.jpg`). Without these, fancy mode falls back to a plain black canvas (see app docstring). |
