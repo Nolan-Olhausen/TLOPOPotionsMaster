@@ -2,7 +2,7 @@
 
 # TLOPO Potions Master (Brewing GUI)
 
-Desktop companion for **The Legend of Pirates Online** potion brewing. It shows a searchable potion catalog with recipes and ingredients, a **brewing board** view with a Port Royal–style hex layout, optional **automation** (clicks and recovery in the real game window), and tools to **capture the game window**, sample board colors, and run a **guided color wizard**.
+**The Legend of Pirates Online** auto potion brewing. It shows a searchable potion catalog with recipes and ingredients, a **brewing board** view with a Port Royal–style hex layout, optional **automation** (clicks and recovery in the real game window), and tools to **capture the game window**, sample board colors, and run a **guided color wizard**.
 
 The shipped executable is **`TLOPOPotionsMaster.exe`** (built from `MyScripts/`). This document is written for anyone using the app from source or from the built `.exe`.
 
