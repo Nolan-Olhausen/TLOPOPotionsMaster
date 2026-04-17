@@ -1,3 +1,5 @@
+> Educational purposes only. Respect the game's Terms of Service and use at your own risk.
+
 # TLOPO Potions Master (Brewing GUI)
 
 Desktop companion for **The Legend of Pirates Online** potion brewing. It shows a searchable potion catalog with recipes and ingredients, a **brewing board** view with a Port Royal–style hex layout, optional **automation** (clicks and recovery in the real game window), and tools to **capture the game window**, sample board colors, and run a **guided color wizard**.
