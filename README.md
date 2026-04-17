@@ -8,11 +8,10 @@ The shipped executable is **`TLOPOPotionsMaster.exe`** (built from `MyScripts/`)
 
 ## Guided color wizard
 
-The **Guided color calibration** window samples colors from your real TLOPO client so automation and recognition match *your* resolution and theme. Open it from the game screen with **Config Colors** (after **Get Window** and **Get Locations** have succeeded—the wizard will warn you if those steps are missing).
+The **Guided color calibration** window samples colors from your real TLOPO client so automation and recognition match *your* resolution and theme. Open it from the app screen with **Config Colors** (after **Get Window** and **Get Locations** have succeeded—the wizard will warn you if those steps are missing).
 
-**Saving:** Each piece row shows **Pending** after a capture until you click **Save all** at the bottom. That writes the empty-board RGB, all pending ring rows, the Brew Again / Brew Again OK / Potion Failed Continue values, and your settings file. You can type R/G/B manually if a sample looks wrong.
+**Saving:** Each piece row shows **Pending** after a capture until you click **Save all** at the bottom. That writes the empty-board RGB, all pending ring rows, the Brew Again / Brew Again OK / Potion Failed Continue values, and your settings file. It is not recommended to enter these values manually or alter what the captures produce.
 
-**Scrolling:** Use the wizard’s scrollbar or the mouse wheel anywhere in the window to reach all rows.
 
 ### Empty board capture
 
@@ -20,25 +19,22 @@ The **Empty board (left slot)** section measures the “plain” board behind pi
 
 ![Empty board: left slot clear, then Capture in the wizard](ReadmeImages/EmptyBoardCapture.png)
 
-*(If your image uses a different extension, rename the file or change the path above—e.g. `EmptyBoardCapture.jpg`.)*
 
 ### Piece / ring color capture
 
-Under **Next pair (queue)** and **Current pair (in play)**, each line is a slot (**Next — left/right piece**, **Current — left/right piece**) and each **color** (Red, Green, Blue, etc.) has its own **Capture** button. In TLOPO, make sure the **matching piece color** is actually in that slot for the row you are calibrating, then click **Capture** in the wizard. The app samples the **ring** around the piece (medians often look a bit muted—that is normal). Adjust R/G/B if needed; status stays **Pending** until **Save all**.
+Under **Next pair (queue)** and **Current pair (in play)**, each line is a slot (**Next — left/right piece**, **Current — left/right piece**) and each **color** (Red, Green, Blue, etc.) has its own **Capture** button. In TLOPO, make sure the **matching piece color** is actually in that slot for the row you are calibrating, then click **Capture** in the wizard. The app samples the **ring** around the piece (medians often look a bit muted—that is normal). Status stays **Pending** until **Save all**.
 
 ![Matching in-game pieces to Next/Current rows before Capture](ReadmeImages/PieceColorCapture.png)
 
-*(Same note as above if you use `.jpg` instead of `.png`.)*
 
-### Brew Again and other buttons (text only)
+### Brew Again and other buttons 
 
-These sections sample solid UI buttons from the live client—no extra reference images needed:
+These sections sample solid UI buttons from the live client, does not require setup aside from reaching a game state where the button pops up on your screen:
 
-- **Brew Again button** — With the normal **Brew Again** control visible on the brewing screen, click **Capture**. The app uses the detected `brew_again` box from your shapes/locations pipeline and stores median RGB for that button.
-- **Brew Again OK button** — Open the state where the **confirmation/OK** control for Brew Again is visible (same idea: one clear screenshot, then **Capture**).
-- **Potion Failed Continue button** — When the **Potion Failed** flow shows the **Continue** (or equivalent) control you want to automate, bring that screen up and **Capture**.
+- **Brew Again button** — Complete a potion for the **Brew Again** button to show up, do not click it, capture it with the color wizard.
+- **Brew Again OK button** — This is the button that can pop up after the **Brew Again** if you are brewing a potion that you are full on, with that **Potions Full** message open, hit capture.
+- **Potion Failed Continue button** — This is only necessary if you plan to automate a potion with 4 colors, fill up the board completely, when the board has no available moves, a **Game Over** message pops up, with it open, capture it.
 
-If capture fails, check the game log in the app, confirm **Get Locations** is up to date, and try again with the game unobstructed.
 
 ---
 
